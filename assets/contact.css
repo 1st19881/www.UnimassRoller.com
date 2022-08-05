@@ -1,0 +1,35 @@
+.erCompany{
+	display:none;
+	color:red;
+	font-size:11px;
+}
+.erContact{
+	display:none;
+	color:red;
+	font-size:11px;
+}
+.erTel{
+	display:none;
+	color:red;
+	font-size:11px;
+}
+.erDetail{
+	display:none;
+	color:red;
+	font-size:11px;
+}
+.erEmail{
+	display:none;
+	color:red;
+	font-size:11px;
+}
+.erCapcha{
+	display:none;
+	color:red;
+	font-size:11px;
+}
+.erCapchaBlack{
+	color:#000;
+	display:block;
+	font-size:11px;
+}
